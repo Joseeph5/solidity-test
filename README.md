@@ -27,7 +27,7 @@ npx hardhat run scripts/deploy.js
 - validateStudent
 Store passed students' addresses in a state on the blockchain, only the can call this function.
 - checkStudent:
-  Check if student has passed(return true if the student has passed the examen and false if not).
+Check if student has passed(return true if the student has passed the examen and false if not).
 - getPassedStudents:
   Return list of all the passed students.
 - owner:
