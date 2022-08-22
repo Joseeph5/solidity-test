@@ -30,9 +30,9 @@ npx hardhat run scripts/deploy.js
   Check if student has passed(return true if the student has passed the examen and false if not).
 - getPassedStudents:
   Return list of all the passed students.
-- Owner
+- owner:
   Return the owner's address
-- transferOwnership
+- transferOwnership:
   Transfers ownership of the contract to a new account, only be called by the current owner
 - renounceOwnership:
   Leaves the contract without owner. It will not be possible to call `onlyOwner` functions anymore. Can only be called by the current owner.
