@@ -20,7 +20,5 @@ npx hardhat run scripts/deploy.js
 
 ### Built using
 
-For the last few months I have been learning and working on Solidity, so this is what I am using to build this app.
-
 - **Solidity**: Back-end(Smart Contracts)
 - **HardHat**: Development environment
