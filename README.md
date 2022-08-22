@@ -29,7 +29,7 @@ Store passed students' addresses in a state on the blockchain, only the owner ca
 - **checkStudent:**
 Check if student has passed(return true if the student has passed the examen and false if not).
 - **getPassedStudents:**
-  Return list of all the passed students.
+  Return a list of all passed students.
 - **owner:**
   Return the owner's address
 - **transferOwnership:**
