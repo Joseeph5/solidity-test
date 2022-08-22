@@ -20,7 +20,7 @@ npx hardhat run scripts/deploy.js
 
 ### Built using
 
-- **Solidity**: Back-end(Smart Contracts)
+- **Solidity**: Smart Contracts
 - **HardHat**: Development environment
 
 ### Function
